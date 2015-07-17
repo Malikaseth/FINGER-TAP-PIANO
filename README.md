@@ -1,2 +1,2 @@
 # FINGER-TAP-PIANO
-Touch Piano using MSP430 microcontroller and capacitive touch
+I developed this project in my first year at a workshop at NSIT Delhi. 
